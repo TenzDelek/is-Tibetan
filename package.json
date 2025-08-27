@@ -1,6 +1,6 @@
 {
   "name": "is-tibetan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check is it tibetan",
   "main": "index.js",
   "scripts": {
