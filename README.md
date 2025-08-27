@@ -6,3 +6,7 @@
 > when name of package is private (@tenzdelek/istibetan) you have to use
 
 npm publish --access=public
+
+when you need to update
+npm version patch
+npm publish
