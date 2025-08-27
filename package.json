@@ -1,0 +1,22 @@
+{
+  "name": "is-tibetan",
+  "version": "1.0.0",
+  "description": "check is it tibetan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenzDelek/is-Tibetan.git"
+  },
+  "keywords": [
+    "tibetan"
+  ],
+  "author": "Tenzin Delek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenzDelek/is-Tibetan/issues"
+  },
+  "homepage": "https://github.com/TenzDelek/is-Tibetan#readme"
+}
